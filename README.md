@@ -6,7 +6,7 @@
 
 <p align="left">
 ✨ <b>Creating bugs since:</b> I first typed "Hello World" and never looked back.<br>
-📚 <b>I'm currently learning:</b>Machine Learning Integration and High-Performance Computing.<br>
+📚 <b>I'm currently learning:</b> Machine Learning Integration and High-Performance Computing.<br>
 🎯 <b>Goals:</b> To build scalable applications that solve real-world problems.<br>
 🎲 <b>Fun fact:</b> I can debug code in my sleep, but I still can't find my keys in the morning.
 </p>
